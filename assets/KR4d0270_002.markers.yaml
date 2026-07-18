@@ -529,6 +529,7 @@ markers:
   - {type: line-break, offset: 1628, content: '', id: KR4d0270_WYG_002-6b08}
   - {type: indent, offset: 1628, content: 　　　, id: KR4d0270_krp_002-bkkind22}
   - {type: punctuation, offset: 1633, content: (, id: KR4d0270_krp_002-bkkpn1}
+  - {type: voice, offset: 1633, length: 26, name: note, id: n1}
   - {type: punctuation, offset: 1646, content: /, id: KR4d0270_krp_002-bkkpn2}
   - {type: substitution, offset: 1657, original: 戯, replacement: 戲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16426}}
   - {type: punctuation, offset: 1659, content: ), id: KR4d0270_krp_002-bkkpn3}
@@ -891,4 +892,4 @@ markers:
 
       ', id: KR4d0270_krp_002-bkkkrnewl179}
   back: []
-hash: sha256:11de2ddfe707aaa65d12be8f269c709e124df280e81e2746ca2782788b310252
+hash: sha256:ac78b98e603a4ba80c50bc8179dabe7d6a6dd0f9e01544e7ccd46d55e6015cd7
